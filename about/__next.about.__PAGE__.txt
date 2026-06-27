@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/1d4h-sglyo8ft.js","/_next/static/chunks/14mumt5_n0xhi.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","section",null,{"className":"min-h-screen flex items-center justify-center bg-gradient-to-r from-indigo-200 via-purple-200 to-pink-200 p-8","children":["$","div",null,{"className":"max-w-2xl text-center bg-white bg-opacity-80 rounded-lg shadow-lg p-6 backdrop-blur-md","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4 text-gray-800","children":"About Me"}],["$","p",null,{"className":"text-lg text-gray-700","children":"Hello! I'm a software engineer passionate about building elegant, high‑performance web applications. I specialize in JavaScript/TypeScript, React, and modern cloud‑native tooling."}]]}]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"OYqQQDsNUaWDH24etbHn5"}
+4:null
